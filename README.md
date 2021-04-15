@@ -2,7 +2,7 @@
 
 Hardware for delivering odours. Can be modified so that the second manifold controls for odour source direction, instead of providing additional odour types. Will Dickson designed the PCB for controlling the solenoid valves. Will Dickson wrote the [original firmware and software](https://github.com/willdickson/switchx7), which I [slightly modified](https://github.com/hanhanhan-kim/switchx7) so that valve command signals can be copied to the expansion port and streamed to an acquisition device, such as a DAQ. 
 
-TODO: Insert CAD render here
+![render](render.PNG)
 
 ## Hardware
 
